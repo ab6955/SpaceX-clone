@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "D-DIN"
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+.page1 {
+    width: 100%;
+    min-height: 109vh;
+    background-image: url(Assests/image_1.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -60px;
+
+}
+
+#logo {
+    cursor: pointer;
+}
+
+#middle {
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    gap: 20px;
+}
+
+#middle a {
+    cursor: pointer;
+}
+
+#middle a:hover {
+    border-bottom: 1px solid white;
+}
+
+#last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+#last a {
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#last a:hover {
+    border-bottom: 1px solid white;
+}
+
+#last img {
+    cursor: pointer;
+}
+
+.content {
+    position: absolute;
+    top: 60%;
+}
+
+.content h3 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.content h1 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.content button {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 18px 50px;
+    background-color: transparent;
+    border-color: white;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+
+
+.page2 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_2.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+
+.page3 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_3.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.page4 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_4.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.page5 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_5.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.page6 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_6.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.page7 {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(Assests/image_7.jpg);
+    background-size: cover;
+    position: relative;
+    padding: 0 80px;
+}
+
+.footer {
+    width: 100%;
+    min-height: 80px;
+    background-color: black;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+
+.footer p {
+    font-size: 12px;
+}
+
+.footer a {
+    font-size: 12px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.footer a:hover {
+    color: gray;
+    transition: .5s ease;
+}
