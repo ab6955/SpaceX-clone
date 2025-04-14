@@ -18,7 +18,7 @@ body {
 .page1 {
     width: 100%;
     min-height: 109vh;
-    background-image: url(Assests/image_1.jpg);
+    background-image: url(assets/image_1.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -102,7 +102,7 @@ body {
 .page2 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_2.jpg);
+    background-image: url(assets/image_2.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -112,7 +112,7 @@ body {
 .page3 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_3.jpg);
+    background-image: url(assets/image_3.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -121,7 +121,7 @@ body {
 .page4 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_4.jpg);
+    background-image: url(assets/image_4.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -130,7 +130,7 @@ body {
 .page5 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_5.jpg);
+    background-image: url(assets/image_5.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -139,7 +139,7 @@ body {
 .page6 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_6.jpg);
+    background-image: url(assets/image_6.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
@@ -148,7 +148,7 @@ body {
 .page7 {
     width: 100%;
     min-height: 100vh;
-    background-image: url(Assests/image_7.jpg);
+    background-image: url(assets/image_7.jpg);
     background-size: cover;
     position: relative;
     padding: 0 80px;
